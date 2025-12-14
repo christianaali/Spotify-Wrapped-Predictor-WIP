@@ -1,1 +1,3 @@
 # Spotify-Wrapped-Predictor-WIP
+
+Hi! This repo is for a project I worked on in Summer 2025. It is predicting my Spotify Wrapped Stats, by cleaning my extended listening history, exploring that data, visualising it as graphs, and then projecting that data to December 2025 (when Wrapped gets released). Due to my horrible listening habits, I am redoing this project with new data (in a new repo!) and just testing the accuracy of the Wrapped instead. Hypothesis (Internet conspiracy theory): Spotify Wrapped misses out on a LOT of listening data, so Wrapped usually doesn't encompass a person's year of streaming.
